@@ -1,3 +1,3 @@
 # Wicked Problems
 
-Hi! I'm Haytham Alsayed, and this is my first GitHub repository!
+Hi! I'm Haytham Alsayed.
